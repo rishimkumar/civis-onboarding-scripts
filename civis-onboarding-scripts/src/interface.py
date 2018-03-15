@@ -3,6 +3,7 @@ from namely import Namely
 from okta import Okta
 from copy import deepcopy
 import pprint
+import logging
 
 class Interface():
     def __init__(self, namely, okta, config):
@@ -14,8 +15,9 @@ class Interface():
         """
         Returns set of active users present in namely not present in okta.
         """
+        logging.info('Fetching set of active users present  in namely and not present in okta')
         active_namely_employees = [x for x in namely_users if x['user_status'] == 'active']
-        active_okta_employees = [x for x in okta_users if x['status'] == 'ACTIVE']
+        active_okta_employees = [x for x in okta_users if x['status'] in {'ACTIVE', 'PROVISIONED'}]
 
         namely_emails = {x['email'] for x in active_namely_employees}
         okta_emails = {x['profile']['email'] for x in active_okta_employees}
@@ -50,6 +52,7 @@ class Interface():
 
         namely_profiles = self.email_to_namely_profiles(self.namely.users, difference_emails)
 
+
         if not namely_profiles:
             print ('No additional users detected')
             return
@@ -58,6 +61,14 @@ class Interface():
         profiles = {}
         for idx, namely_profile in enumerate(namely_profiles):
             email = namely_profile['email']
+
+
+
+            if len(self.config['email_white_list']) > 0 and (email not in self.config['email_white_list']):
+                print ("Skipping {} because not in white list".format(email))
+                continue
+
+
             print ('Employee {} is present in namely not present in Okta'.format(email))
             if self.config['alert']:
                 print ('Not attempting to create because on alert only mode')
@@ -67,7 +78,7 @@ class Interface():
             print ('Attempting to create...')
             res, ok = self.okta.create_new_user(namely_profile)
             if ok:
-                profiles[email] = resj
+                profiles[email] = res
 
             if idx != len(namely_profiles) - 1:
                 print('\n' * 3)
@@ -152,10 +163,8 @@ class Interface():
 
             last_item = idx == len(difference_objects) - 1
 
-            if (self.config['black_set'] & update_object.keys()) and email not in self.email_white_list:
-                print ('Prohibited change in the following object')
-                pp.pprint(update_object)
-                print ('Add email to white list in order to undergo change')
+            if len(self.config['email_white_list']) > 0 and email not in self.config['email_white_list']:
+                print ("Skipping {} because not in white list".format(email))
                 continue
 
             okta_user = email_to_okta[email]

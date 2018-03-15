@@ -1,0 +1,6 @@
+* Add obvious rules e.g. add Human Resources in title to Human Resources
+* Display Name  w/ accurate first names add legal name, firstName 
+
+* legalName is their full name and then preferredName and or firstName is their firstName.
+
+* 
