@@ -18,7 +18,11 @@ def get_list_env(x):
     if not x:
         return []
 
-    return x.split(",")
+    foo = getenv(x)
+    if not foo:
+        return []
+
+    return foo.split(",")
 
 
 CONFIG_OBJECT = {
@@ -35,6 +39,7 @@ RUN_CONFIG = {
 }
 
 
+import pdb
 if __name__ == '__main__':
     logging.basicConfig(level=logging.INFO,
                         format='%(asctime)s %(levelname)s %(message)s',

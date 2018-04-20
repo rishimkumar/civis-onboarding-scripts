@@ -1,0 +1,1928 @@
+Created login session using namely credentials
+About to fetch list of users from Namely.
+Built list of the following urls: ['https://civisanalytics.namely.com/api/v1/profiles?page=1&per_page=50', 'https://civisanalytics.namely.com/api/v1/profiles?page=2&per_page=50', 'https://civisanalytics.namely.com/api/v1/profiles?page=3&per_page=50', 'https://civisanalytics.namely.com/api/v1/profiles?page=4&per_page=50', 'https://civisanalytics.namely.com/api/v1/profiles?page=5&per_page=50', 'https://civisanalytics.namely.com/api/v1/profiles?page=6&per_page=50', 'https://civisanalytics.namely.com/api/v1/profiles?page=7&per_page=50']
+Authenticated Okta user
+Fetching all groups from Namely
+Fetched list of profiles
+ONBOARDING NEW EMPLOYEES...
+LOOKING FOR OKTA/NAMELY DIFFERENCES...
+Employee crichards@civisanalytics.com is present in namely not present in Okta
+Not attempting to create because on alert only mode
+
+
+
+
+LOOKING FOR PROFILE DIFFERENCES BETWEEN NAMELY AND OKTA...
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Converting namely info to Okta
+Processing information for jmeans@civisanalytics.com...
+"Following differences detected for jmeans@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Sales & Client Success',
+    'legalName': 'John Means',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Solution Delivery Specialist'}
+
+
+
+
+Processing information for afu@civisanalytics.com...
+"Following differences detected for afu@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Operations',
+    'legalName': 'Alan Fu',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Chief Financial Officer'}
+
+
+
+
+Processing information for adarmofal@civisanalytics.com...
+"Following differences detected for adarmofal@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Annie Darmofal',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Designer, UI/UX'}
+
+
+
+
+Processing information for thudson@civisanalytics.com...
+"Following differences detected for thudson@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Antonio Hudson',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Applied Data Science Manager'}
+
+
+
+
+Processing information for pmiller@civisanalytics.com...
+"Following differences detected for pmiller@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Data Science Research and Development',
+    'legalName': 'Patrick Miller',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Data Scientist'}
+
+
+
+
+Processing information for skomanduri@civisanalytics.com...
+"Following differences detected for skomanduri@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Saranga Komanduri',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior Tech Lead'}
+
+
+
+
+Processing information for alagaron@civisanalytics.com...
+"Following differences detected for alagaron@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Ashley Lagaron',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Applied Data Science Manager'}
+
+
+
+
+Processing information for bberend@civisanalytics.com...
+"Following differences detected for bberend@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Bryan Berend',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior Applied Data Scientist'}
+
+
+
+
+Processing information for esadler@civisanalytics.com...
+"Following differences detected for esadler@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Data Science Research and Development',
+    'legalName': 'Evan Sadler',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Data Scientist'}
+
+
+
+
+Processing information for aprabahar@civisanalytics.com...
+"Following differences detected for aprabahar@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Abhiti Prabahar',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Data Analyst'}
+
+
+
+
+Processing information for cdick@civisanalytics.com...
+"Following differences detected for cdick@civisanalytics.com's profile"
+{   'city': 'Washington',
+    'department': 'Applied Data Science',
+    'legalName': 'Chris Dick',
+    'state': 'DC',
+    'street_address': '525 9th St NW',
+    'title': 'Applied Data Science Manager'}
+
+
+
+
+Processing information for jcobian@civisanalytics.com...
+"Following differences detected for jcobian@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Jonathan Cobian',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior Software Engineer'}
+
+
+
+
+Processing information for waskew@civisanalytics.com...
+"Following differences detected for waskew@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Data Science Research and Development',
+    'lastName': 'Askew IV',
+    'legalName': 'Walter Askew IV',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior Data Scientist'}
+
+
+
+
+Processing information for sgupta@civisanalytics.com...
+"Following differences detected for sgupta@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Salil Gupta',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Software Engineer ||'}
+
+
+
+
+Processing information for bnichols@civisanalytics.com...
+"Following differences detected for bnichols@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Brian Nichols',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior Tech Lead'}
+
+
+
+
+Processing information for espoerlein@civisanalytics.com...
+"Following differences detected for espoerlein@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Operations',
+    'legalName': 'Elise Spoerlein',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Human Resources Specialist'}
+
+
+
+
+Processing information for sshenker@civisanalytics.com...
+"Following differences detected for sshenker@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Sherry Shenker',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Applied Data Scientist'}
+
+
+
+
+Processing information for ochen@civisanalytics.com...
+"Following differences detected for ochen@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Oscar Chen',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Software Engineer'}
+
+
+
+
+Processing information for nmarchio@civisanalytics.com...
+"Following differences detected for nmarchio@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Nicholas Marchio',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior Applied Data Scientist'}
+
+
+
+
+Processing information for ekaceli@civisanalytics.com...
+"Following differences detected for ekaceli@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Sales & Client Success',
+    'legalName': 'Eda Kaceli',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Client Success Analyst'}
+
+
+
+
+Processing information for cgeorge@civisanalytics.com...
+"Following differences detected for cgeorge@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Christopher George',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Applied Data Science Manager'}
+
+
+
+
+Processing information for msadowsky@civisanalytics.com...
+"Following differences detected for msadowsky@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Michael Sadowsky',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Social Scientist'}
+
+
+
+
+Processing information for jmichelson@civisanalytics.com...
+"Following differences detected for jmichelson@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Data Science Research and Development',
+    'legalName': 'James Michelson',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior Data Scientist'}
+
+
+
+
+Processing information for mcosgrove@civisanalytics.com...
+"Following differences detected for mcosgrove@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Sales & Client Success',
+    'legalName': 'Melissa Cosgrove',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Executive Assistant'}
+
+
+
+
+Processing information for dcampos@civisanalytics.com...
+"Following differences detected for dcampos@civisanalytics.com's profile"
+{   'city': 'Washington',
+    'department': 'Sales & Client Success',
+    'legalName': 'Daniel Campos',
+    'state': 'DC',
+    'street_address': '525 9th St NW',
+    'title': 'Senior Solutions Architect'}
+
+
+
+
+Processing information for aswartz@civisanalytics.com...
+"Following differences detected for aswartz@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Sales & Client Success',
+    'legalName': 'Ashley Swartz',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Business Development Manager'}
+
+
+
+
+Processing information for jadler@civisanalytics.com...
+"Following differences detected for jadler@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Operations',
+    'legalName': 'Jourdan Adler',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Office Manager'}
+
+
+
+
+Processing information for bkirshner@civisanalytics.com...
+"Following differences detected for bkirshner@civisanalytics.com's profile"
+{   'city': 'Washington',
+    'department': 'Applied Data Science',
+    'legalName': 'Benjamin Kirshner',
+    'state': 'DC',
+    'street_address': '525 9th St NW',
+    'title': 'Applied Data Scientist'}
+
+
+
+
+Processing information for fhussain@civisanalytics.com...
+"Following differences detected for fhussain@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Operations',
+    'legalName': 'Farheen Hussain',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Accounting Analyst'}
+
+
+
+
+Processing information for rlee@civisanalytics.com...
+"Following differences detected for rlee@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Operations',
+    'legalName': 'Richard Lee',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'General Counsel'}
+
+
+
+
+Processing information for jkerkstra@civisanalytics.com...
+"Following differences detected for jkerkstra@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'John Kerkstra',
+    'manager': None,
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior DevOps Engineer'}
+
+
+
+
+Processing information for asmith@civisanalytics.com...
+"Following differences detected for asmith@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Aaron Smith',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'DevOps Engineer ||'}
+
+
+
+
+Processing information for jengle@civisanalytics.com...
+"Following differences detected for jengle@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Operations',
+    'legalName': 'Jaime Engle',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Corporate Recruiter'}
+
+
+
+
+Processing information for jkothari@civisanalytics.com...
+"Following differences detected for jkothari@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Jaiveer Kothari',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Software Engineer'}
+
+
+
+
+Processing information for gsanchez@civisanalytics.com...
+"Following differences detected for gsanchez@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'lastName': 'Sanchez-Conde',
+    'legalName': 'Luis Gustavo Sanchez-Conde',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Applied Data Scientist'}
+
+
+
+
+Processing information for cclarke@civisanalytics.com...
+"Following differences detected for cclarke@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Cameron Clarke',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Applied Data Scientist'}
+
+
+
+
+Processing information for choffman@civisanalytics.com...
+"Following differences detected for choffman@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Operations',
+    'lastName': 'Knisley',
+    'legalName': 'Caitlyn Knisley',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Accounting Manager'}
+
+
+
+
+Processing information for eelizaldi@civisanalytics.com...
+"Following differences detected for eelizaldi@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Erica M.  Elizaldi',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Designer, Visual'}
+
+
+
+
+Processing information for hhinnefeld@civisanalytics.com...
+"Following differences detected for hhinnefeld@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Data Science Research and Development',
+    'legalName': 'John Hinnefeld',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Data Scientist'}
+
+
+
+
+Processing information for aweil@civisanalytics.com...
+"Following differences detected for aweil@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Sales & Client Success',
+    'legalName': 'Allison Weil',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Business Development Manager'}
+
+
+
+
+Processing information for tharris@civisanalytics.com...
+"Following differences detected for tharris@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Todd Harris',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Applied Data Science Manager'}
+
+
+
+
+Processing information for amancini@civisanalytics.com...
+"Following differences detected for amancini@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Angelo Mancini',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Applied Data Science Manager'}
+
+
+
+
+Processing information for wjohnston@civisanalytics.com...
+"Following differences detected for wjohnston@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Wade Johnston',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior Product Manager'}
+
+
+
+
+Processing information for wsu@civisanalytics.com...
+"Following differences detected for wsu@civisanalytics.com's profile"
+{   'city': 'Washington',
+    'department': 'Applied Data Science',
+    'legalName': 'Wendy Su',
+    'state': 'DC',
+    'street_address': '525 9th St NW',
+    'title': 'Applied Data Scientist'}
+
+
+
+
+Processing information for rdeese@civisanalytics.com...
+"Following differences detected for rdeese@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Rupert Deese',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Software Engineer ||'}
+
+
+
+
+Processing information for zkrislov@civisanalytics.com...
+"Following differences detected for zkrislov@civisanalytics.com's profile"
+{   'city': 'Washington',
+    'department': 'Applied Data Science',
+    'legalName': 'Zachary Krislov',
+    'state': 'DC',
+    'street_address': '525 9th St NW',
+    'title': 'Applied Data Scientist'}
+
+
+
+
+Processing information for cmalone@civisanalytics.com...
+"Following differences detected for cmalone@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Data Science Research and Development',
+    'legalName': 'Caitlin Malone',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Director, Data Science'}
+
+
+
+
+Processing information for kingersoll@civisanalytics.com...
+"Following differences detected for kingersoll@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Data Science Research and Development',
+    'legalName': 'Keith Ingersoll',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior Data Scientist'}
+
+
+
+
+Processing information for dcarroll@civisanalytics.com...
+"Following differences detected for dcarroll@civisanalytics.com's profile"
+{   'city': 'Washington',
+    'department': 'Sales & Client Success',
+    'legalName': 'Diane Carroll',
+    'state': 'DC',
+    'street_address': '525 9th St NW',
+    'title': 'Solutions Architect'}
+
+
+
+
+Processing information for adidominick@civisanalytics.com...
+"Following differences detected for adidominick@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Operations',
+    'legalName': 'Allison DiDominick',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Talent Acquisition Manager'}
+
+
+
+
+Processing information for zernst@civisanalytics.com...
+"Following differences detected for zernst@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Zachary Ernst',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Lead Data Engineer'}
+
+
+
+
+Processing information for ehevel@civisanalytics.com...
+"Following differences detected for ehevel@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Elliot Hevel',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Software Engineer ||'}
+
+
+
+
+Processing information for jcolic@civisanalytics.com...
+"Following differences detected for jcolic@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Sales & Client Success',
+    'legalName': 'Jessica Colic',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior Business Development Manager'}
+
+
+
+
+Processing information for lmiller@civisanalytics.com...
+"Following differences detected for lmiller@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Leanne Miller',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Software Engineer'}
+
+
+
+
+Processing information for rreddy@civisanalytics.com...
+"Following differences detected for rreddy@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Ratuja Reddy',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Applied Data Scientist'}
+
+
+
+
+Processing information for jblanton@civisanalytics.com...
+"Following differences detected for jblanton@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Operations',
+    'legalName': 'Justin Blanton',
+    'manager': None,
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'IT Specialist, Support'}
+
+
+
+
+Processing information for abedell@civisanalytics.com...
+"Following differences detected for abedell@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Allison Bedell',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Product Manager'}
+
+
+
+
+Processing information for amoss@civisanalytics.com...
+"Following differences detected for amoss@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Sales & Client Success',
+    'legalName': 'Amanda Moss',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Head of PR & Events'}
+
+
+
+
+Processing information for fmarsh@civisanalytics.com...
+"Following differences detected for fmarsh@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Franklin Marsh',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Applied Data Scientist'}
+
+
+
+
+Processing information for dfreeman@civisanalytics.com...
+"Following differences detected for dfreeman@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Sales & Client Success',
+    'legalName': 'Darren Freeman',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Business Development Manager'}
+
+
+
+
+Processing information for pskipper@civisanalytics.com...
+"Following differences detected for pskipper@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Data Science Research and Development',
+    'legalName': 'Peter Skipper',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Data Scientist'}
+
+
+
+
+Processing information for rrosenberg@civisanalytics.com...
+"Following differences detected for rrosenberg@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Ryan Rosenberg',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Social Scientist'}
+
+
+
+
+Processing information for achen@civisanalytics.com...
+"Following differences detected for achen@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Data Science Research and Development',
+    'legalName': 'Yan Ping Chen',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Lead Data Scientist'}
+
+
+
+
+Processing information for dshor@civisanalytics.com...
+"Following differences detected for dshor@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'David Shor',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior Data Scientist'}
+
+
+
+
+Processing information for dgins@civisanalytics.com...
+"Following differences detected for dgins@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Operations',
+    'legalName': 'David Gins',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Executive Assistant'}
+
+
+
+
+Processing information for cwang@civisanalytics.com...
+"Following differences detected for cwang@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Clara Wang',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Applied Data Scientist'}
+
+
+
+
+Processing information for cakins@civisanalytics.com...
+"Following differences detected for cakins@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Operations',
+    'legalName': 'Cynthia Akins',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'VP of People Operations'}
+
+
+
+
+Processing information for kkreft@civisanalytics.com...
+"Following differences detected for kkreft@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Kelly Kreft',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior Applied Data Scientist'}
+
+
+
+
+Processing information for atopczewska@civisanalytics.com...
+"Following differences detected for atopczewska@civisanalytics.com's profile"
+{   'city': 'Washington',
+    'department': 'Applied Data Science',
+    'legalName': 'Aleksandra Topczewska',
+    'state': 'DC',
+    'street_address': '525 9th St NW',
+    'title': 'Senior Applied Data Scientist'}
+
+
+
+
+Processing information for rlear@civisanalytics.com...
+"Following differences detected for rlear@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Operations',
+    'legalName': 'Rebekah Lear',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Recruiting Coordinator'}
+
+
+
+
+Processing information for sbaxter@civisanalytics.com...
+"Following differences detected for sbaxter@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Scott Baxter',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'DevOps Engineer'}
+
+
+
+
+Processing information for bfuller@civisanalytics.com...
+"Following differences detected for bfuller@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Sales & Client Success',
+    'legalName': 'Benjamin Fuller',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Director, Business Development'}
+
+
+
+
+Processing information for mbarlow@civisanalytics.com...
+"Following differences detected for mbarlow@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Megan Barlow',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Applied Data Scientist'}
+
+
+
+
+Processing information for dlewis@civisanalytics.com...
+"Following differences detected for dlewis@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'David Lewis',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Software Engineer'}
+
+
+
+
+Processing information for lsander@civisanalytics.com...
+"Following differences detected for lsander@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Data Science Research and Development',
+    'legalName': 'Elizabeth Sander',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Data Scientist'}
+
+
+
+
+Processing information for snormoyle@civisanalytics.com...
+"Following differences detected for snormoyle@civisanalytics.com's profile"
+{   'city': 'Washington',
+    'department': 'Applied Data Science',
+    'legalName': 'Sarah Normoyle',
+    'state': 'DC',
+    'street_address': '525 9th St NW',
+    'title': 'Applied Data Scientist'}
+
+
+
+
+Processing information for bfritton@civisanalytics.com...
+"Following differences detected for bfritton@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Brian Fritton',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'VP of Engineering'}
+
+
+
+
+Processing information for dfriedman@civisanalytics.com...
+"Following differences detected for dfriedman@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Operations',
+    'legalName': 'Daniel Friedman',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'IT Operations Manager'}
+
+
+
+
+Processing information for jdavis@civisanalytics.com...
+"Following differences detected for jdavis@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Data Science Research and Development',
+    'legalName': 'John Davis',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior Data Scientist'}
+
+
+
+
+Processing information for mbecker@civisanalytics.com...
+"Following differences detected for mbecker@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Matthew Becker',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior Data Scientist'}
+
+
+
+
+Processing information for dmcginty@civisanalytics.com...
+"Following differences detected for dmcginty@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Devin McGinty',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Software Engineer'}
+
+
+
+
+Processing information for jstinebring@civisanalytics.com...
+"Following differences detected for jstinebring@civisanalytics.com's profile"
+{   'city': 'Washington',
+    'department': 'Applied Data Science',
+    'legalName': 'Jesse Stinebring',
+    'state': 'DC',
+    'street_address': '525 9th St NW',
+    'title': 'Applied Data Science Manager'}
+
+
+
+
+Processing information for dwagner@civisanalytics.com...
+"Following differences detected for dwagner@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Operations',
+    'legalName': 'Daniel Wagner',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Founder and Chief Executive Officer'}
+
+
+
+
+Processing information for nmaswood@civisanalytics.com...
+"Following differences detected for nmaswood@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Nasr Maswood',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Software Engineer'}
+
+
+
+
+Processing information for ccampigotto@civisanalytics.com...
+"Following differences detected for ccampigotto@civisanalytics.com's profile"
+{   'city': 'Washington',
+    'department': 'Applied Data Science',
+    'legalName': 'Christine Campigotto',
+    'state': 'DC',
+    'street_address': '525 9th St NW',
+    'title': 'Director of Applied Data Science'}
+
+
+
+
+Processing information for qrodgers@civisanalytics.com...
+"Following differences detected for qrodgers@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Operations',
+    'legalName': 'Quinn Rodgers',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'IT Security and Compliance Lead'}
+
+
+
+
+Processing information for anastasiachen@civisanalytics.com...
+"Following differences detected for anastasiachen@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Anastasia Chen',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior Applied Data Scientist'}
+
+
+
+
+Processing information for kbenker@civisanalytics.com...
+"Following differences detected for kbenker@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Kayla Benker',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior Data Engineer'}
+
+
+
+
+Processing information for tpham@civisanalytics.com...
+"Following differences detected for tpham@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Thuphuong Pham',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Software Engineer ||'}
+
+
+
+
+Processing information for ehouston@civisanalytics.com...
+"Following differences detected for ehouston@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Ellen Houston',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Applied Data Science Manager'}
+
+
+
+
+Processing information for ndiaz@civisanalytics.com...
+"Following differences detected for ndiaz@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Nicholas  Diaz',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Software Engineer'}
+
+
+
+
+Processing information for slink@civisanalytics.com...
+"Following differences detected for slink@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Sales & Client Success',
+    'legalName': 'Samantha  Link',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Sales Operations Analyst'}
+
+
+
+
+Processing information for jwilliams@civisanalytics.com...
+"Following differences detected for jwilliams@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Jonathan Williams',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Applied Data Science Manager'}
+
+
+
+
+Processing information for squinn@civisanalytics.com...
+"Following differences detected for squinn@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Sales & Client Success',
+    'legalName': 'Sean Quinn',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior Solutions Architect'}
+
+
+
+
+Processing information for rchapple@civisanalytics.com...
+"Following differences detected for rchapple@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Sales & Client Success',
+    'legalName': 'Robert Chapple',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Chief Revenue Officer'}
+
+
+
+
+Processing information for harader@civisanalytics.com...
+"Following differences detected for harader@civisanalytics.com's profile"
+{   'city': 'Washington',
+    'department': 'Applied Data Science',
+    'legalName': 'Hayley Arader',
+    'state': 'DC',
+    'street_address': '525 9th St NW',
+    'title': 'Senior Applied Data Scientist'}
+
+
+
+
+Processing information for sagarwal@civisanalytics.com...
+"Following differences detected for sagarwal@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Sulabh Agarwal',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Chief Technology Officer'}
+
+
+
+
+Processing information for ebraun@civisanalytics.com...
+"Following differences detected for ebraun@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Operations',
+    'legalName': 'Eric Braun',
+    'manager': None,
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'IT Specialist'}
+
+
+
+
+Processing information for vbyrne@civisanalytics.com...
+"Following differences detected for vbyrne@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Operations',
+    'legalName': 'Valerie Byrne',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Commercial Counsel'}
+
+
+
+
+Processing information for zfriedlander@civisanalytics.com...
+"Following differences detected for zfriedlander@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Zachary  Friedlander',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Software Engineer'}
+
+
+
+
+Processing information for abudde@civisanalytics.com...
+"Following differences detected for abudde@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Amos Budde',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Director of Applied Data Science'}
+
+
+
+
+Processing information for sgraham@civisanalytics.com...
+"Following differences detected for sgraham@civisanalytics.com's profile"
+{   'city': 'Washington',
+    'department': 'Applied Data Science',
+    'legalName': 'Sarah Graham',
+    'state': 'DC',
+    'street_address': '525 9th St NW',
+    'title': 'Applied Data Scientist'}
+
+
+
+
+Processing information for nzencey@civisanalytics.com...
+"Following differences detected for nzencey@civisanalytics.com's profile"
+{   'city': 'Washington',
+    'department': 'Applied Data Science',
+    'legalName': 'Nathan Zencey',
+    'state': 'DC',
+    'street_address': '525 9th St NW',
+    'title': 'Applied Data Scientist'}
+
+
+
+
+Processing information for maida@civisanalytics.com...
+"Following differences detected for maida@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Masahiko Aida',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Principal Survey Scientist'}
+
+
+
+
+Processing information for sseabold@civisanalytics.com...
+"Following differences detected for sseabold@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Data Science Research and Development',
+    'legalName': 'Jonathan Seabold',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Director, Data Science'}
+
+
+
+
+Processing information for tanderson@civisanalytics.com...
+"Following differences detected for tanderson@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Sales & Client Success',
+    'legalName': 'Todd Anderson',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Director of Client Success'}
+
+
+
+
+Processing information for amarino@civisanalytics.com...
+"Following differences detected for amarino@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Sales & Client Success',
+    'legalName': 'Alexander Marino',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior Client Success Analyst'}
+
+
+
+
+Processing information for mpowell@civisanalytics.com...
+"Following differences detected for mpowell@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Michelle Powell',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Applied Data Scientist'}
+
+
+
+
+Processing information for mkeane@civisanalytics.com...
+"Following differences detected for mkeane@civisanalytics.com's profile"
+{   'city': 'Washington',
+    'department': 'Tech',
+    'legalName': 'Micheal Keane',
+    'state': 'DC',
+    'street_address': '525 9th St NW',
+    'title': 'Data Engineer'}
+
+
+
+
+Processing information for rconnolly@civisanalytics.com...
+"Following differences detected for rconnolly@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Rachel Connolly',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Software Engineer'}
+
+
+
+
+Processing information for jcolazzi@civisanalytics.com...
+"Following differences detected for jcolazzi@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Jenna Colazzi',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior Software Engineer'}
+
+
+
+
+Processing information for kcrum@civisanalytics.com...
+"Following differences detected for kcrum@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Data Science Research and Development',
+    'legalName': 'Keith Myers-Crum',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Lead Data Scientist'}
+
+
+
+
+Processing information for nkeyes@civisanalytics.com...
+"Following differences detected for nkeyes@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Nathan Keyes',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior Staff Engineer'}
+
+
+
+
+Processing information for sking@civisanalytics.com...
+"Following differences detected for sking@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Sales & Client Success',
+    'legalName': 'Sofia King',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Client Success Analyst'}
+
+
+
+
+Processing information for agnott@civisanalytics.com...
+"Following differences detected for agnott@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Andrew Gnott',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Software Engineer'}
+
+
+
+
+Processing information for gshrader@civisanalytics.com...
+"Following differences detected for gshrader@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Donna Shrader',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Applied Data Scientist'}
+
+
+
+
+Processing information for akoeberle@civisanalytics.com...
+"Following differences detected for akoeberle@civisanalytics.com's profile"
+{   'city': 'Washington',
+    'department': 'Applied Data Science',
+    'legalName': 'Alexandre Koeberle',
+    'state': 'DC',
+    'street_address': '525 9th St NW',
+    'title': 'Applied Data Scientist'}
+
+
+
+
+Processing information for gjones@civisanalytics.com...
+"Following differences detected for gjones@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Gareth Jones',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Applied Data Scientist'}
+
+
+
+
+Processing information for cperry@civisanalytics.com...
+"Following differences detected for cperry@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Chris Perry',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior DevOps Engineer'}
+
+
+
+
+Processing information for jkulzick@civisanalytics.com...
+"Following differences detected for jkulzick@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'John Kulzick',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior Data Architect'}
+
+
+
+
+Processing information for sswerdlow@civisanalytics.com...
+"Following differences detected for sswerdlow@civisanalytics.com's profile"
+{   'city': 'Washington',
+    'department': 'Applied Data Science',
+    'legalName': 'Scarlett Swerdlow',
+    'state': 'DC',
+    'street_address': '525 9th St NW',
+    'title': 'Applied Data Science Manager'}
+
+
+
+
+Processing information for adeora@civisanalytics.com...
+"Following differences detected for adeora@civisanalytics.com's profile"
+{   'city': 'Washington',
+    'department': 'Applied Data Science',
+    'legalName': 'Amy Deora',
+    'state': 'DC',
+    'street_address': '525 9th St NW',
+    'title': 'Director of Government Analytics'}
+
+
+
+
+Processing information for byoung@civisanalytics.com...
+"Following differences detected for byoung@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Brecia Young',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Applied Data Scientist'}
+
+
+
+
+Processing information for msamawi@civisanalytics.com...
+"Following differences detected for msamawi@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Sales & Client Success',
+    'legalName': 'Mike Samawi',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Solutions Architect'}
+
+
+
+
+Processing information for kkluga@civisanalytics.com...
+"Following differences detected for kkluga@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Operations',
+    'legalName': 'Kelli Kluga',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior Financial Analyst'}
+
+
+
+
+Processing information for tchamberlain@civisanalytics.com...
+"Following differences detected for tchamberlain@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Taylor Chamberlain',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Software Engineer ||'}
+
+
+
+
+Processing information for ngalauxy@civisanalytics.com...
+"Following differences detected for ngalauxy@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Nicholas Galauxy',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior Software Engineer'}
+
+
+
+
+Processing information for mheilman@civisanalytics.com...
+"Following differences detected for mheilman@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Data Science Research and Development',
+    'legalName': 'Michael Heilman',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Lead Data Scientist'}
+
+
+
+
+Processing information for sbaumgartner@civisanalytics.com...
+"Following differences detected for sbaumgartner@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Sales & Client Success',
+    'legalName': 'Steven Baumgartner',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'VP of Sales'}
+
+
+
+
+Processing information for shoover@civisanalytics.com...
+"Following differences detected for shoover@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Data Science Research and Development',
+    'legalName': 'Stephen Hoover',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Lead Data Scientist'}
+
+
+
+
+Processing information for nkumar@civisanalytics.com...
+"Following differences detected for nkumar@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Nikhil Kumar',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Applied Data Scientist'}
+
+
+
+
+Processing information for cmcdonagh@civisanalytics.com...
+"Following differences detected for cmcdonagh@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'legalName': 'Ciara McDonagh',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior HR Business Partner'}
+
+
+
+
+Processing information for asullivan@civisanalytics.com...
+"Following differences detected for asullivan@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'lastName': 'Shokair-Sullivan',
+    'legalName': 'Allison Shokair-Sullivan',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior Product Manager'}
+
+
+
+
+Processing information for cswasey@civisanalytics.com...
+"Following differences detected for cswasey@civisanalytics.com's profile"
+{   'city': 'Washington',
+    'department': 'Applied Data Science',
+    'legalName': 'Charlotte Swasey',
+    'state': 'DC',
+    'street_address': '525 9th St NW',
+    'title': 'Applied Data Scientist'}
+
+
+
+
+Processing information for pcooman@civisanalytics.com...
+"Following differences detected for pcooman@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Peter Cooman',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior Applied Data Scientist'}
+
+
+
+
+Processing information for eting@civisanalytics.com...
+"Following differences detected for eting@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Evelyn Ting',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Software Engineer'}
+
+
+
+
+Processing information for mfoley@civisanalytics.com...
+"Following differences detected for mfoley@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Maura Foley',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior Applied Data Scientist'}
+
+
+
+
+Processing information for eburklow@civisanalytics.com...
+"Following differences detected for eburklow@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Elliott Burklow',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Applied Data Scientist'}
+
+
+
+
+Processing information for msaelim@civisanalytics.com...
+"Following differences detected for msaelim@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Michael Saelim',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Software Engineer ||'}
+
+
+
+
+Processing information for jacksonlee@civisanalytics.com...
+"Following differences detected for jacksonlee@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Data Science Research and Development',
+    'legalName': 'Jackson Lee',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Data Scientist'}
+
+
+
+
+Processing information for hfleck@civisanalytics.com...
+"Following differences detected for hfleck@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Heidi Fleck',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Designer, UI/UX'}
+
+
+
+
+Processing information for cson@civisanalytics.com...
+"Following differences detected for cson@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Applied Data Science',
+    'legalName': 'Crystal Son',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Applied Data Science Manager'}
+
+
+
+
+Processing information for mbrennan@civisanalytics.com...
+"Following differences detected for mbrennan@civisanalytics.com's profile"
+{   'city': 'Washington',
+    'department': 'Tech',
+    'legalName': 'Matthew Brennan',
+    'state': 'DC',
+    'street_address': '525 9th St NW',
+    'title': 'Tech Lead'}
+
+
+
+
+Processing information for psuda@civisanalytics.com...
+"Following differences detected for psuda@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Tech',
+    'legalName': 'Paul Suda',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Tech Lead'}
+
+
+
+
+Processing information for cmccarthy@civisanalytics.com...
+"Following differences detected for cmccarthy@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Sales & Client Success',
+    'legalName': 'Caroline McCarthy',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior Digital Marketing Specialist'}
+
+
+
+
+Processing information for rvrabec@civisanalytics.com...
+"Following differences detected for rvrabec@civisanalytics.com's profile"
+{   'city': 'Chicago',
+    'department': 'Sales & Client Success',
+    'legalName': 'Rachel Vrabec',
+    'state': 'IL',
+    'street_address': '200 Monroe St',
+    'title': 'Senior Solutions Architect'}
+
+
+
+
+Processing information for matkinson@civisanalytics.com...
+"Following differences detected for matkinson@civisanalytics.com's profile"
+{   'city': 'Washington',
+    'department': 'Applied Data Science',
+    'legalName': 'Michelle Atkinson',
+    'state': 'DC',
+    'street_address': '525 9th St NW',
+    'title': 'Senior Applied Data Scientist'}
