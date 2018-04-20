@@ -25,12 +25,12 @@ CONFIG_OBJECT = {
     'dept_and_title_only': get_bool_env('DEPT_AND_TITLE', False),
     'skip_first_name': get_bool_env('DEPT_AND_TITLE', True),
     'black_set': get_list_env('BLACK_LIST'),
-    'email_white_list': [],  # get_list_env('WHITE_LIST'),
+    'email_white_list': get_list_env('WHITE_LIST'),
     'alert': get_bool_env('ALERT', True)
 }
 
 RUN_CONFIG = {
-    'onboarding': get_bool_env('ONBOARDING', True),
+    'onboarding': get_bool_env('ONBOARDING', False),
     'reconcile': get_bool_env('RECONCILE', True),
 }
 
@@ -41,6 +41,7 @@ if __name__ == '__main__':
                         filename='/tmp/myapp.log',
                         filemode='w')
     namely, okta = Namely(), Okta()
+
     interface = Interface(namely, okta, CONFIG_OBJECT)
 
     if RUN_CONFIG['onboarding']:

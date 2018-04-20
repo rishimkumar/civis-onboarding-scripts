@@ -132,8 +132,8 @@ class Namely():
         manager = None
         reports_to = namely_info.get('reports_to')
         if reports_to and len(reports_to) == 0:
-            foo = reports_to[0]
-            manager = foo.get("first_name") + foo.get("last_name")
+            reports_to_object = reports_to[0]
+            manager = reports_to_object.get("first_name") + reports_to_object.get("last_name")
 
         return {
             'lastName': namely_info['last_name'],
